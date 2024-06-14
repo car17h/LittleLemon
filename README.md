@@ -1,4 +1,8 @@
 Project Little Lemon
+Open workspace en visual studio code
+cd littlelemon
+python manage.py runserver
+
 Path API:
 
 api/
